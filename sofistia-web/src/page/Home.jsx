@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-
+// Git add
 export default function Home() {
   return (
     <div
