@@ -8,7 +8,7 @@ export default function KitchenCard({ title, description, onReady, onNotPossible
       className="card"
       style={{
         width: "450px",
-        height: "250px",
+        height: "200px",
         display: "flex",
         flexDirection: "column",
         justifyContent: "space-between",

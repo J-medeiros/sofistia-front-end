@@ -5,39 +5,39 @@ import Button from "../components/Button";
 const cardsData = [
   {
     id: 1,
-    title: "Card 1",
-    description: "Descrição do card 1",
+    title: "Pizza Margherita",
+    description: "Pizza tradicional com molho de tomate, mussarela e manjericão fresco.",
     image: "https://images.pexels.com/photos/4109084/pexels-photo-4109084.jpeg",
   },
   {
     id: 2,
-    title: "Card 2",
-    description: "Descrição do card 2",
+    title: "Hambúrguer Artesanal",
+    description: "Hambúrguer artesanal com pão brioche, cheddar e bacon crocante.",
     image: "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg",
   },
   {
     id: 3,
-    title: "Card 3",
-    description: "Descrição do card 3",
+    title: "Spaghetti à Bolonhesa",
+    description: "Massa com molho bolonhesa e parmesão ralado.",
     image: "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
   },
   {
     id: 4,
-    title: "Card 4",
-    description: "Descrição do card 4",
-    image: "https://images.pexels.com/photos/3577566/pexels-photo-3577566.jpeg",
+    title: "Salada Caesar",
+    description: "Alface, frango grelhado, croutons e molho Caesar.",
+    image: "https://drive.google.com/file/d/1TE2SxS3H6puzqR5gNJQG6253nET5Llfq/view?usp=sharing",
   },
   {
     id: 5,
-    title: "Card 5",
-    description: "Descrição do card 5",
+    title: "Sushi Combo 12 peças",
+    description: "Combo com nigiris, uramakis e hossomakis.",
     image: "https://images.pexels.com/photos/3577566/pexels-photo-3577566.jpeg",
   },
   {
     id: 6,
-    title: "Card 6",
-    description: "Descrição do card 6",
-    image: "https://images.pexels.com/photos/3577566/pexels-photo-3577566.jpeg",
+    title: "Tábua de Frios",
+    description: "Queijos, presunto parma, salame e pães artesanais.",
+    image: "https://images.pexels.com/photos/1435895/pexels-photo-1435895.jpeg",
   },
 ];
 
